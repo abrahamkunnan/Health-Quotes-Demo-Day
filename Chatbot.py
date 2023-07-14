@@ -9,14 +9,6 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 
-warnings.filterwarnings('ignore')
-filtered_list = []
-
-
-
-f = open('C:\depression.txt','r',errors = 'ignore')
-#make sure you save the google doc as a txt file to your hard drive (idk if the location matters) and name the txt file as "depression" 
-#you may need to change line 9 depending on where you saved this txt file and what you named it
 
 raw = f.read()
 raw = raw.lower()
@@ -51,4 +43,18 @@ for i in word_tokens:
 #Uncomment this line to print the entire text file without stopwords. only used to show that the code works
 #print(filtered_list)
 
+greeting_inputs = ['hi','hello','hey']
+greeting_output = ['Hi! Ask me anything about depression','Hello! I am here to answer your depression questions!','Hey, I am happy to answer your doubts about depression']
 
+def greeting(sentence):
+	for word in sentence.split():
+		if word.lower() in greeting_inputs:
+			return random.choice(greeting_output)
+
+x= greeting("hi")
+print(x)
+#basic function made for greeting purposes, I was supposed to get to the chatbot answering questions about depression
+#but that required sklearn library which I informed you guys was giving me problems due to sublime text running on python 2 default
+#I promise to get you a version which can answer questions soon
+#for now tamper with the x variable and pass in values of hello and hey within the greeting function to see how it works
+#the code will soon be able for you to actually type your questions instead of passing them into the function and running the code
