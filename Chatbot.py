@@ -8,11 +8,14 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
+import sys
+print(sys.version)
 
-
+f = open('C:\depression.txt','r',errors = 'ignore')
 raw = f.read()
 raw = raw.lower()
 
+filtered_list = []
 
 #comment out the following lines after running the code once
 #nltk.download('punkt')
@@ -52,9 +55,5 @@ def greeting(sentence):
 			return random.choice(greeting_output)
 
 x= greeting("hi")
-print(x)
-#basic function made for greeting purposes, I was supposed to get to the chatbot answering questions about depression
-#but that required sklearn library which I informed you guys was giving me problems due to sublime text running on python 2 default
-#I promise to get you a version which can answer questions soon
-#for now tamper with the x variable and pass in values of hello and hey within the greeting function to see how it works
-#the code will soon be able for you to actually type your questions instead of passing them into the function and running the code
+#uncomment this line to execute greeting
+#print(x)
