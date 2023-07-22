@@ -1,11 +1,12 @@
 import nltk
 from nltk.tokenize import word_tokenize
 import sklearn
-from nltk.stem import WordNetLemmatizer
+from nltk.stem import PorterStemmer
 import random
+ps = PorterStemmer()
 user=input('1.Ask Questions about depressoin\n2.Tell us how you feel,and we\'ll inspire you with a quote')
 quotes={
-    "sad":[
+    "sadness":[
         "The pain you feel today is the strength you feel tomorrow. "
         ,"Tears come from the heart and not from the brain.",
         "“Cheer up, my dear. After every storm comes the sun. Happiness is waiting for you ahead.”",
@@ -17,10 +18,24 @@ quotes={
         "If you\'re going through a hard time right now, make sure you do something today that makes you smile.",
         "Sadness is but a wall between two gardens.",
         "Life\'s under no obligation to give us what we expect.",
-        ""
+        "“We cannot solve problems with the kind of thinking we employed when we came up with them.”"
+        "“What brings us to tears, will lead us to grace. Our pain is never wasted.” ",
+        "“Every life has a measure of sorrow, and sometimes this is what awakens us.”",
+        "“People cry, not because they are weak. It is because they've been strong for too long.” ",
+        "“Your greatest highs come from overcoming your greatest lows.” ",
+        "“First, accept sadness. Realize that without losing, winning isn\'t so great.” ",
+        "“When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.”",
+        "“You cannot always control what goes on outside. But you can always control what goes on inside.”",
+        "“Nothing ever goes away until it teaches us what we need to know.” ",
+        "“If there is no struggle, there is no progress.”",
+        "“Courage is like a muscle. We strengthen it by use.”",
+        "“If you don\'t like the road you\'re walking, start paving another one.”",
+        "Life has got all those twists and turns. You've got to hold on tight and off you go.",
+        
 
         
         ],
+
     "depressed":[
         "It\'s OK to not feel OK",
         "You\'re not alone",
@@ -52,7 +67,13 @@ quotes={
         "Healing is a process, not an event. Give it time. Good things happen to those who never give up.",
         "When something goes wrong, take a moment to be thankful for all the things in your life that are going right.",
         "Never forget that you are worthy of love and respect.",
-        ""
+        "“Don\'t let yesterday take up too much of today.”",
+        "“Experience is a hard teacher because she gives the test first, the lesson afterwards.”",
+        "“When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.”",
+        "Life has got all those twists and turns. You've got to hold on tight and off you go.",
+
+
+
 
 
        
@@ -61,12 +82,7 @@ quotes={
 
 
   ],
-  "death":[
-      "Our dead are never dead to us until we have forgotten them",
-      "The bitterest tears shed over graves are for words left unsaid and deeds left undone.",
-      "You know, a heart can be broken, but it keeps on beating, just the same",
-      ""
-  ],
+  
     "frustrated":[
         "“If you really love something set it free. If it comes back it\'s yours, if not it wasn\'t meant to be.”",
         "“People will always throw stones in your path. What will happen depends on what you make out of it a wall or a bridge! So cheer up and move on.”",
@@ -83,12 +99,41 @@ quotes={
         "It always seems impossible until it\'s done.",
         "You never fall until you stop trying."
         "Don't go around saying the world owes you a living. The world owes you nothing. It was here first.",
+        "“Stay away from those people who try to disparage your ambitions. Small minds will always do that, but great minds will give you a feeling that you can become great too.” ",
+        "It is better to fail in originality than to succeed in imitation.",
+        "“You learn more from failure than from success. Don\'t let it stop you. Failure builds character.”",
+        "“Setting goals is the first step in turning the invisible into the visible.” ",
+        "“The elevator to success is out of order. You\'ll have to use the stairs, one step at a time.”",
+        "“When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.”",
+        "Nothing is impossible. The word itself says Im possible!",
         ""
+
+
 
 
     ]
     }
-def quote():
+def get_quote(emotion):
+    return random.choice(quotes.get(emotion,[]))
+
+def quote_gen():
     user_feeling=input('How do you feel?')
-    feeling_tokenized=nltk.work_tokenize(user_feeling)
+    feeling_tokenized=nltk.word_tokenize(user_feeling.lower())
+    stemmed=[]
+    for word in feeling_tokenized:
+        stemmed.append(ps.stem(word))
+    for word in stemmed:
+        if word=='depress':
+            emotion="depressed"
+        elif word=='sad':
+            emotion=="sadness"
+        elif word=="frustrat":
+            emotion=="frustrated"
+    #else:
+       #print('I will make another list of general quotes')
+    quote=get_quote(emotion)
+    print("Chatbot: ",quote)
+quote_gen()
+    
+
 
