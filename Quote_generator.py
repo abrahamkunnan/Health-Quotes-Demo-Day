@@ -126,9 +126,9 @@ def quote_gen():
         if word=='depress':
             emotion="depressed"
         elif word=='sad':
-            emotion=="sadness"
+            emotion="sadness"
         elif word=="frustrat":
-            emotion=="frustrated"
+            emotion="frustrated"
     #else:
        #print('I will make another list of general quotes')
     quote=get_quote(emotion)
