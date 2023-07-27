@@ -176,7 +176,7 @@ def response(user_response):
 	flat.sort()
 	req_tfidf = flat[-2]
 	if (req_tfidf==0):
-		chatbot_response=chatbot_response+"I am sorry, I don't understand you."
+		chatbot_response=chatbot_response+"I am sorry, I don't understand you.\n"
 		return chatbot_response
 	else:
 		chatbot_response = chatbot_response+sent_tokens[idx]
@@ -209,9 +209,12 @@ while (flag == True):
 					elif word == 'frustrat':
 						emotion = 'frustrated'
 					else:
-						emotion = 'none'
-				quote=get_quote(emotion)
-				print("Chatbot: "+ "'" + quote + "'"+"\n")
+						emotion = None
+				quote = ''
+				if (emotion!= None):
+					quote=get_quote(emotion)
+				if (quote != ''):
+					print("Chatbot: "+ "'" + quote + "'"+"\n")
 				sent_tokens.remove(user_response)
 	else:
 		flag = False
