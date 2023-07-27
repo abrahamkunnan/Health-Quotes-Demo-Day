@@ -1,4 +1,4 @@
-﻿Depression (major depressive disorder) is a common and serious medical illness that negatively affects how you feel, the way you think and how you act. Fortunately, it is also treatable. Depression causes feelings of sadness and/or a loss of interest in activities you once enjoyed. It can lead to a variety of emotional and physical problems and can decrease your ability to function at work and at home.
+Depression (major depressive disorder) is a common and serious medical illness that negatively affects how you feel, the way you think and how you act. Fortunately, it is also treatable. Depression causes feelings of sadness and/or a loss of interest in activities you once enjoyed. It can lead to a variety of emotional and physical problems and can decrease your ability to function at work and at home.
 
 
 Depression symptoms can vary from mild to severe and can include:
@@ -49,7 +49,7 @@ Biochemistry: Differences in certain chemicals in the brain may contribute to sy
 Genetics: Depression can run in families. For example, if one identical twin has depression, the other has a 70 percent chance of having the illness sometime in life.
 Personality: People with low self-esteem, who are easily overwhelmed by stress, or who are generally pessimistic appear to be more likely to experience depression.
 Environmental factors: Continuous exposure to violence, neglect, abuse or poverty may make some people more vulnerable to depression.
-How Is Depression Treated?
+
 Depression is among the most treatable of mental disorders. Between 80% and 90% percent of people with depression eventually respond well to treatment. Almost all patients gain some relief from their symptoms.
 
 
@@ -422,148 +422,97 @@ Social stigma of major depression is widespread, and contact with mental health 
 
 While serving his first term as Prime Minister of Norway, Kjell Magne Bondevik attracted international attention in August 1998 when he announced that he was suffering from a depressive episode, becoming the highest ranking world leader to admit to suffering from a mental illness while in office. Upon this revelation, Anne Enger became acting Prime Minister for three weeks, from 30 August to 23 September, while he recovered from the depressive episode. Bondevik then returned to office. Bondevik received thousands of supportive letters, and said that the experience had been positive overall, both for himself and because it made mental illness more publicly acceptable.
 
-While we all feel sad, moody or low from time to time, some people experience these feelings intensely, for long periods of time (weeks, months or even years) and sometimes without any apparent reason. Depression is more than just a low mood – it's a serious condition that has an impact on both physical and mental health.
+Key facts
+Depression is a common mental disorder.
+Globally, an estimated 5% of adults suffer from depression.
+More women are affected by depression than men.
+Depression can lead to suicide.
+There is effective treatment for mild, moderate and severe depression.
+Overview
+Depressive disorder (also known as depression) is a common mental disorder. It involves a depressed mood or loss of pleasure or interest in activities for long periods of time.
 
-Depression is common
-In any one year, around one million people in Australia experience depression. One in six women and one in eight men will experience depression at some time in their life. The good news is, depression is treatable and effective treatments are available. The sooner a person with depression seeks support, the sooner they can recover.
+Depression is different from regular mood changes and feelings about everyday life. It can affect all aspects of life, including relationships with family, friends and community. It can result from or lead to problems at school and at work.
 
-Symptoms of depression
-Depression affects how people think, feel and act. Depression makes it more difficult to manage from day to day and interferes with study, work and relationships. A person may be depressed if for more than two weeks they have felt sad, down or miserable most of the time or have lost interest or pleasure in most of their usual activities, and have also experienced several of the signs and symptoms across at least three of the categories in the list below. It’s important to note, everyone experiences some of these symptoms from time to time and it may not necessarily mean a person is depressed. Equally, not every person who is experiencing depression will have all of these symptoms.
+Depression can happen to anyone. People who have lived through abuse, severe losses or other stressful events are more likely to develop depression. Women are more likely to have depression than men.
 
-Feelings caused by depression
-A person with depression may feel:
+An estimated 3.8% of the population experience depression, including 5% of adults (4% among men and 6% among women), and 5.7% of adults older than 60 years. Approximately 280 million people in the world have depression (1). Depression is about 50% more common among women than among men. Worldwide, more than 10% of pregnant women and women who have just given birth experience depression (2). More than 700 000 people die due to suicide every year. Suicide is the fourth leading cause of death in 15–29-year-olds.
 
-sad
-miserable
-unhappy
-irritable
-overwhelmed
-guilty
-frustrated
-lacking in confidence
-indecisive
-unable to concentrate
-disappointed.
-Thoughts caused by depression
-A person with depression may have thoughts such as:
+Although there are known, effective treatments for mental disorders, more than 75% of people in low- and middle-income countries receive no treatment (3). Barriers to effective care include a lack of investment in mental health care, lack of trained health-care providers and social stigma associated with mental disorders.
 
-‘I’m a failure.’
-‘It’s my fault.’
-‘Nothing good ever happens to me.’
-‘I’m worthless.’
-‘There is nothing good in my life.’
-‘Things will never change.’
-‘Life’s not worth living.’
-‘People would be better off without me.’
-Behavioural symptoms of depression
-A person with depression may:
+Symptoms and patterns
+During a depressive episode, a person experiences a depressed mood (feeling sad, irritable, empty). They may feel a loss of pleasure or interest in activities.
 
-withdraw from close family and friends
-stop going out
-stop their usual enjoyable activities
-not get things done at work or school
-rely on alcohol and sedatives.
-Physical symptoms of depression
-A person with depression may experience:
+A depressive episode is different from regular mood fluctuations. They last most of the day, nearly every day, for at least two weeks.
 
-being tired all the time
-feeling sick and ‘run down’
-frequent headaches, stomach or muscle pains
-a churning gut
-sleep problems
-loss or change of appetite
-significant weight loss or gain.
-Causes of depression
-While the exact cause of depression isn’t known, a number of things can be associated with its development. Generally, depression does not result from a single event, but from a combination of biological, psychological, social and lifestyle factors.
+Other symptoms are also present, which may include:
 
-Personal factors that can lead to depression
-Personal factors that can lead to a risk of depression include:
+poor concentration
+feelings of excessive guilt or low self-worth
+hopelessness about the future
+thoughts about dying or suicide
+disrupted sleep
+changes in appetite or weight
+feeling very tired or low in energy.
+Depression can cause difficulties in all aspects of life, including in the community and at home, work and school.
 
-family history – depression can run in families and some people will be at an increased genetic risk. However, this doesn’t mean that a person will automatically experience depression if a parent or close relative has had the condition.
-personality – some people may be more at risk because of their personality, particularly if they tend to worry a lot, have low self-esteem, are perfectionists, are sensitive to personal criticism, or are self-critical and negative
-serious medical conditions – these can trigger depression in two ways. Serious conditions can bring about depression directly or can contribute to depression through the associated stress and worry, especially if it involves long-term management of a condition or chronic pain
-drug and alcohol use – can both lead to and result from depression. Many people with depression also have drug and alcohol problems.
-Life events and depression
-Research suggests that continuing difficulties, such as long-term unemployment, living in an abusive or uncaring relationship, long-term isolation or loneliness or prolonged exposure to stress at work can increase the risk of depression.
+A depressive episode can be categorized as mild, moderate, or severe depending on the number and severity of symptoms, as well as the impact on the individual’s functioning. 
 
-Significant adverse life events, such as losing a job, going through a separation or divorce, or being diagnosed with a serious illness, may also trigger depression, particularly among people who are already at risk because of genetic, developmental or other personal factors.
+There are different patterns of depressive episodes including:
 
-Changes in the brain
-Although there has been a lot of research in this complex area, there is still much that we do not know. Depression is not simply the result of a chemical imbalance, for example because a person has too much or not enough of a particular brain chemical. However, disturbances in normal chemical messaging processes between nerve cells in the brain are believed to contribute to depression.
+single episode depressive disorder, meaning the person’s first and only episode;
+recurrent depressive disorder, meaning the person has a history of at least two depressive episodes; and
+bipolar disorder, meaning that depressive episodes alternate with periods of manic symptoms, which include euphoria or irritability, increased activity or energy, and other symptoms such as increased talkativeness, racing thoughts, increased self-esteem, decreased need for sleep, distractibility, and impulsive reckless behaviour.  
+Contributing factors and prevention
+Depression results from a complex interaction of social, psychological, and biological factors. People who have gone through adverse life events (unemployment, bereavement, traumatic events) are more likely to develop depression. Depression can, in turn, lead to more stress and dysfunction and worsen the affected person’s life situation and the depression itself.
 
-Some factors that can lead to faulty mood regulation in the brain include:
+Depression is closely related to and affected by physical health. Many of the factors that influence depression (such as physical inactivity or harmful use of alcohol) are also known risk factors for diseases such as cardiovascular disease, cancer, diabetes and respiratory diseases. In turn, people with these diseases may also find themselves experiencing depression due to the difficulties associated with managing their condition.
 
-genetic vulnerability
-severe life stressors
-taking some medications, drugs and alcohol
-some medical conditions.
-Most modern antidepressants have an effect on the brain’s chemical transmitters, in particular serotonin and noradrenaline, which relay messages between brain cells. This is thought to be how medications work for depression.
+Prevention programmes have been shown to reduce depression. Effective community approaches to prevent depression include school-based programmes to enhance a pattern of positive coping in children and adolescents. Interventions for parents of children with behavioural problems may reduce parental depressive symptoms and improve outcomes for their children. Exercise programmes for older persons can also be effective in depression prevention.
 
-Other medical treatments such as transcranial magnetic stimulation (TMS) and electroconvulsive therapy (ECT) may sometimes be recommended for people with severe depression who have not recovered with lifestyle change, social support, psychological therapy and medication. While these treatments also have an impact on the brain’s chemical messaging process between nerve cells, the precise ways in which these treatments work is still being researched.
+Diagnosis and treatment
+There are effective treatments for depression. These include psychological treatment and medications. Seek care if you have symptoms of depression.
 
-Seek support for symptoms of depression
-Depression is often not recognised and can go on for months or even years if left untreated. It’s important to seek support as early as possible, as the sooner a person gets treatment, the sooner they can recover.
+Psychological treatments are the first treatments for depression. They can be combined with antidepressant medications in moderate and severe depression. Antidepressant medications are not needed for mild depression.
 
-Untreated depression can have many negative effects on a person’s life, including serious relationship and family problems, difficulty finding and holding down a job, and drug and alcohol problems.
+Psychological treatments can teach new ways of thinking, coping or relating to others. They may include talk therapy with professionals and supervised lay therapists. Talk therapy can happen in person or online. Psychological treatments may be accessed through self-help manuals, websites and apps. 
 
-There is no one proven way that people recover from depression. However, there is a range of effective treatments and health professionals who can help people on the road to recovery.
+Effective psychological treatments for depression include:   
 
-There are also many things that people with depression can do for themselves to help them recover and stay well. The important thing is to find the right treatment and the right health professional for a person’s needs.
+behavioural activation
+cognitive behavioural therapy
+interpersonal psychotherapy
+problem-solving therapy.
+Antidepressant medications include selective serotonin reuptake inhibitors (SSRIs), such as fluoxetine.
 
-Types of depression
-There are different types of depression. The symptoms for each can range from relatively minor through to severe.
+Health-care providers should keep in mind the possible adverse effects associated with antidepressant medication, the ability to deliver either intervention (in terms of expertise, and/or treatment availability), and individual preferences.
 
-Major depression
-Major depression, or major depressive disorder is the technical term used by health professionals and researchers to describe the most common type of depression. Other terms sometimes used include unipolar depression or clinical depression.
+Antidepressants should not be used for treating depression in children and are not the first line of treatment in adolescents, among whom they should be used with extra caution.
 
-Depression can be described as mild, moderate or severe.
+Different medications and treatments are used for bipolar disorder.
 
-Melancholia
-Melancholia is an older term for depression and is still sometimes used to describe a more severe form of depression with a strong biological basis, where many of the physical symptoms of depression are particularly evident. For example, one of the major changes is that the person can be observed to move more slowly, or to be experiencing significant changes to their sleep pattern and appetite.
+Self-care
+Self-care can play an important role in managing symptoms of depression and promoting overall well-being.
 
-A person with melancholia is also more likely to have a depressed mood that is characterised by complete loss of pleasure in everything or almost everything.
+What you can do:
 
-Dysthymia
-The symptoms of dysthymia (sometimes called Persistent Depressive Disorder) are similar to those of major depression, but are less severe and more persistent. A person has to have this milder depression for more than two years to be diagnosed with dysthymia.
+try to keep doing activities you used to enjoy
+stay connected to friends and family
+exercise regularly, even if it’s just a short walk
+stick to regular eating and sleeping habits as much as possible
+avoid or cut down on alcohol and don’t use illicit drugs, which can make depression worse
+talk to someone you trust about your feelings 
+seek help from a healthcare provider.
+If you have thoughts of suicide:
 
-Psychotic depression
-Sometimes, people with a depressive condition can lose touch with reality. This can involve hallucinations (seeing or hearing things that are not there) or delusions (false beliefs that are not shared by others), such as believing they are bad or evil, or that they are being watched or followed or that everyone is against them. This is known as psychotic depression.
+remember you are not alone, and that many people have gone through what you’re experiencing and found help
+talk to someone you trust about how you feel
+talk to a health worker, such as a doctor or counsellor
+join a support group.
+If you think you are in immediate danger of harming yourself, contact any available emergency services or a crisis line.
 
-Antenatal and postnatal depression
-Women are at an increased risk of depression during pregnancy (known as the antenatal or prenatal period) and in the year following childbirth (known as the postnatal period). This time frame (the period covered by pregnancy and the first year after the baby’s birth) may also be referred to as the perinatal period.
+WHO response
+WHO’s Mental health action plan 2013–2030 highlights the steps required to provide appropriate interventions for people with mental disorders including depression. 
 
-The causes of depression at this time can be complex and are often the result of a combination of factors. In the days immediately following birth, many women experience the ‘baby blues’, which is a common condition related to hormonal changes, affecting up to 80 per cent of women who have given birth.
+Depression and self-harm/suicide are among the priority conditions covered by WHO’s Mental Health Gap Action Programme (mhGAP). The Programme aims to help countries increase services for people with mental, neurological and substance use disorders through care provided by health workers who are not specialists in mental health. 
 
-The ‘baby blues’, or the general stress of adjusting to pregnancy or a new baby, are common experiences, but are different from depression.
-
-Depression is longer lasting and can affect not only the mother, but her relationship with her baby, the child’s development, the mother’s relationship with her partner and with other members of the family.
-
-Up to one in 10 women will experience depression during pregnancy. This increases to 16 per cent in the first three months after having a baby.
-
-Bipolar disorder
-Bipolar disorder used to be known as ‘manic depression’ because the person experiences periods of depression and periods of mania with periods of normal mood in between. The symptoms of mania are opposite to the symptoms of depression and can vary in intensity. They include:
-
-feeling great
-having plenty of energy
-racing thoughts
-little need for sleep
-talking fast
-having difficulty focusing on tasks
-feeling frustrated and irritable.
-This is not just a fleeting experience. Sometimes, the person loses touch with reality and experiences hallucinations or delusions, particularly about their ideas, abilities or importance. A family history of bipolar disorder can increase a person’s risk of experiencing bipolar disorder.
-
-Because bipolar disorder includes periods of depression, it is not uncommon for a person with bipolar disorder to be misdiagnosed as having major depression until they have a manic or hypomanic episode. Bipolar disorder can also sometimes be confused with other mental health conditions such as schizophrenia.
-
-The treatment for bipolar disorder is often different to that for major depression. It is therefore important to check for this condition whenever a person is being assessed for depression.
-
-Cyclothymic disorder
-Cyclothymic disorder is an uncommon condition which is often described as a milder form of bipolar disorder. The person experiences chronic fluctuating moods over at least two years, involving periods of hypomania (a mild to moderate level of mania) and periods of depressive symptoms, with very short periods (no more than two months) of normality between.
-
-The symptoms last for a shorter time, are less severe, and are not as regular, so they don’t fit the criteria of bipolar disorder or major depression.
-
-Seasonal affective disorder (SAD)
-SAD is a mood disorder that has a seasonal pattern. The cause is unclear, but may be related to the variation in light exposure in different seasons. SAD is characterised by mood disturbances (either periods of depression or mania) that begin and end in a particular season. Depression in winter only is the most common way in which people experience SAD.
-
-SAD is usually diagnosed after the person has had the same symptoms during winter for two or more years. People with SAD are more likely to experience lack of energy, sleep too much, overeat, gain weight and crave carbohydrates.
-
-SAD is rare in Australia, and more likely to be found in countries with short days and longer periods of darkness, such as the cold climate in the Northern Hemisphere.
+WHO has developed brief psychological intervention manuals for depression that may be delivered by lay therapists to individuals and groups. An example is the Problem management plus (PM+) manual, which describes the use of behavioural activation, stress management, problem solving treatment and strengthening social support. Moreover, the Group interpersonal therapy for depression manual describes group treatment of depression. Finally, the Thinking healthy manual covers the use of cognitive-behavioural therapy for perinatal depression.
