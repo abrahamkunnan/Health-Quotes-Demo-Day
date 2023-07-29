@@ -120,6 +120,40 @@ quotes={
         "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
         "Nothing is impossible. The word itself says Im possible!",
         ""
+    ],
+	
+    "general":[
+        "Life is 10% what happens to you and 90% how you react to it.",
+        "Change your thoughts, and you change your world.",
+        "All our dreams can come true if we have the courage to pursue them",
+        "Success is a journey not a destination.",
+        "What you get by achieving your goals is not as important as what you become by achieving your goals",
+        "It always seems impossible until it's done",
+        "Success is liking yourself, liking what you do, and liking how you do it",
+        "If you cannot do great things, do small things in a great way.",
+        "Success only comes to those who dare to attempt",
+        "If opportunity doesn't knock, build a door",
+        "Joy does not simply happen to us. We have to choose joy and keep choosing it every day.",
+        "Be happy for this moment. This moment in your life.",
+        "If you carry joy in your heart, you can heal any moment",
+        "If you can dream it, you can do it.",
+        "To live is the rarest thing in the world. Most people just exist",
+        "Life is difficult because… we don\'t appreciate the things that come easily.",
+        "Life teaches you a new lesson every day, if you are attentive enough in the class of life.",
+        "Don\'t wait. The time will never be just right."
+        "You can, you should, and if you\'re brave enough to start, you will.",
+        "He who does not understand your silence will probably not understand your words.",
+        "Happiness often sneaks in through a door you didn\'t know you left open.",
+        "If you have to introduce yourself then understand that success is still far away.",
+        "The only place where your dream becomes impossible is in your own thinking",
+        "Belief and hope don\'t make goals easy… but make them possible.",
+        "Happening Good things may not make you positive. You have to be positive. And, when you\'re positive, good things are bound to happen.",
+        "If you look at what you have in life, you\'ll always have more.",
+        "Every saint has a past, and every sinner has a future.",
+        "Life is not a problem to be solved, but a reality to be experienced.",
+        "It does not matter how slowly you go, so long as you do not stop.",
+        "f you continue to think the way you\'ve always thought, you\'ll continue to get what you\'ve always got.",
+        ""
     ]
     }
 
@@ -207,6 +241,8 @@ while (flag == True):
 						emotion = 'sadness'
 					elif word == 'frustrat':
 						emotion = 'frustrated'
+					else:
+						emotion= "general"
 				quote=get_quote(emotion)
 				print("Chatbot: "+ "'" + quote + "'"+"\n")
 				sent_tokens.remove(user_response)
