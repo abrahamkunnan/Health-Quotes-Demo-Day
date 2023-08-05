@@ -15,7 +15,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 
-f = open('depression.txt','r',errors = 'ignore')
+f = open('C:\depression.txt','r',errors = 'ignore')
 raw = f.read()
 raw = raw.lower()
 
@@ -231,12 +231,12 @@ def response(user_response):
 		return chatbot_response        
 
 def chatbot():
-    print('Ask me anything about depression! To exit type EXIT')
+    print('\nAsk me anything about depression! To exit type EXIT\n\n')
     flag=True
     while (flag == True):
         user_response = input()
         user_response = user_response.lower()
-        if (user_response != 'EXIT'):
+        if (user_response.lower() != 'EXIT'):
             if (user_response == 'thanks' or user_response == 'thank you' or user_response == 'thx'):
                 print("\nChatbot: you're welcome\n")
             else:
@@ -254,7 +254,7 @@ def get_quote(emotion):
     return random.choice(quotes.get(emotion,[]))
 
 def quote_gen():
-    user_feeling=input('Chatbot:How do you feel?')
+    user_feeling=input('\nChatbot:How do you feel?\n\n')
     feeling_tokenized=nltk.word_tokenize(user_feeling.lower())
     stemmed=[]
     for word in feeling_tokenized:
@@ -269,8 +269,8 @@ def quote_gen():
     else:
          emotion="general"
     quote=get_quote(emotion)
-    print("Chatbot: ",quote)
-    user_choice=int(input('To get back to the main menu press 1\nTo Exit press 2 '))
+    print("\nChatbot: ",quote)
+    user_choice=int(input('To get back to the main menu press 1\nTo Exit press 2 \n\n'))
     if user_choice==1:
         menu()
     elif user_choice==2:
@@ -280,7 +280,7 @@ def quote_gen():
 
     
 def menu():
-     user_choice=int(input('Hello user!, I\'m your Health-Chatbot\nI will answer questions about depression and give you inspirational quotes if you tell me how you feel.\nChoose from the following options:\n1.Anwer questions about depression\n2.To give you an inspirational quote if you tell me how you feel\n3.EXIT'))
+     user_choice=int(input('\nHello user!, I\'m your Health-Chatbot\nI will answer questions about depression and give you inspirational quotes if you tell me how you feel.\nChoose from the following options:\n1.Answer questions about depression\n2.To give you an inspirational quote if you tell me how you feel\n3.EXIT\n\n'))
      if user_choice==1:
         chatbot()
      elif user_choice==2:
