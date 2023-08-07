@@ -1,12 +1,11 @@
-from flask import Flask
-from flask import request
+from flask import Flask, render_template, request
+
 app = Flask(__name__)
 
 @app.route('/')
-def route():
-    return "Hello world"
+def home():
+    return render_template('index.html')
 
-@app.route('/bruh')
-def bruh():
-    return "bruh"
-app.run(debug=True, port=8002, host='0.0.0.0')
+
+if __name__ == '__main__':
+    app.run(debug=True, port=8002, host='0.0.0.0' )
