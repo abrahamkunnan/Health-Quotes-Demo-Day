@@ -287,5 +287,8 @@ def menu():
         quote_gen()
      elif user_choice==3:
           print('Have a great day!!! and remember '+random.choice(quotes.get('general',[])))
+     else:
+	     print('I didn\'t get that. Please pick from the provided options. ')
+	     menu()
           
 menu()
