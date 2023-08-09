@@ -12,4 +12,5 @@ If you must set up a venv, ensure that your machine does not block scripts from 
 
 DO NOT RENAME ANY FILES YOU DOWNLOAD FROM OUR GITHUB REPO
 
-You MUST download our depression.txt and it MUST be saved in your C: drive. For minimum hassle
+You MUST download our depression.txt and it MUST be saved in your C: drive. For minimum hassle save it as a file within the C: drive and NOT WITHIN A FOLDER IN YOUR C: DRIVE
+;
