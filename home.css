@@ -1,0 +1,30 @@
+body{
+    color: white;
+    background-color: green;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    text-align:center
+}
+
+
+
+.hcontainer,.pcontainer{
+    padding:10px;
+}
+
+.hcontainer{
+    background-color:#074102;
+   
+    
+}
+
+.pcontainer {
+    background-color:#12a105;
+
+}
+
+a:link, a:visited {
+    color:white;
+}
+
+
+
