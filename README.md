@@ -2,7 +2,7 @@ Welcome to Health Quotes! Here are the instructions to run our project.
 
 Keep in mind, this code only works with windows devices, it does not have MacOS compatibility
 
-Your IDE to run this project must be Visual Studio Code (VSCode). We are not responsible for any errors you may get for trying to run in another IDE
+This code is not specific to any IDE meaning that it can run on almost any Python IDE. Keep in mind we used VSCode and are not responsible for any errors you may get while trying to run on any other IDE
 
 Conduct a pip install for the libraries nltk, random, and scikit-learn. If you can import these without errors, no action needs to be taken regarding imports
 
