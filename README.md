@@ -20,6 +20,8 @@ Download home.html, questions.html, quotes.html, home.css, questions.css, and qu
 
 In your folder where flaskapp.py is located, create another folder named 'templates'. Place the html and css files in the templates folder
 
+In your folder where flaskapp.py is located, create another folder named 'static'. Place the css files in the static folder
+
 The application can be started by running flaskapp.py
 
 There are 3 lines of code at the beginning of flaskapp.py that are download statements for nltk features. THESE LINES MUST BE UNCOMMENTED FOR THE FIRST TIME RUNNING FLASKAPP.PY.
