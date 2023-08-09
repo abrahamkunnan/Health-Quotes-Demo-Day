@@ -1,15 +1,31 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Health Quotes Chatbot</title>
+    <link rel='stylesheet' href='/static/quotes.css'>
 </head>
 <body>
-    <h1>Welcome to Health Quotes! The quotes part</h1>
+    <div class='hcontainer'>
+    <h1>Feeling Down? Get a Quote!</h1>
     <a href='questions.html'>To Questions</a>
     <a href='home.html'>To Home</a>
-<form method='post'>You: <input type='text' name='user_input' placeholder='say something' size='80'></input></form>
-<form method='post'>Response: <input type='text' name='dialog_box' value='{{ bot_response }}' size='200' style="height: 40px;"readonly></input></form>
+    </div>
+    <div class='pcontainer'>
+        <p>Operate this chatbot by asking any depression related question in the box labeled 'You'!</p>
+        <p>A response will generate in the box labeled 'Chatbot'</p>
+        <p>Try to keep your responses related to depression or else the chatbot may not understand you</p>
+        <p>Keep in mind, some responses may be innaccurate to the question asked</p>
+        <p>In addition, the chatbot may produce the same answer to two questions if they are not worded differently enough</p>
+    </div>
 
+<div class='icontainer'>
+<form method='post'>You: <input type='text' name='user_input' placeholder='say something' size='80'></input></form>
+<br>
+<form method='post'>Chatbot: <input type='text' name='dialog_box' value='{{ bot_response }}' size='200' style="height: 40px;"readonly></input></form>
+</div>
+
+<img src='https://cdn0.iconfinder.com/data/icons/business-and-finance-10-4/68/464-512.png'>
 
 </body>
 </html>
