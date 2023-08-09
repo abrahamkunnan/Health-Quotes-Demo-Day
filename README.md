@@ -16,9 +16,9 @@ You MUST download our depression.txt and it MUST be saved in your C: drive. For 
 
 Download flaskapp.py
 
-Download home.html, questions.html, and quotes.html
+Download home.html, questions.html, quotes.html, home.css, questions.css, and quotes.css
 
-In your folder where flaskapp.py is located, create another folder named 'templates'. Place the html files in the templates folder
+In your folder where flaskapp.py is located, create another folder named 'templates'. Place the html and css files in the templates folder
 
 The application can be started by running flaskapp.py
 
