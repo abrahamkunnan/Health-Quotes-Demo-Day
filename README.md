@@ -13,4 +13,19 @@ If you must set up a venv, ensure that your machine does not block scripts from 
 DO NOT RENAME ANY FILES YOU DOWNLOAD FROM OUR GITHUB REPO
 
 You MUST download our depression.txt and it MUST be saved in your C: drive. For minimum hassle save it as a file within the C: drive and NOT WITHIN A FOLDER IN YOUR C: DRIVE
-;
+
+Download flaskapp.py
+
+Download home.html, questions.html, and quotes.html
+
+In your folder where flaskapp.py is located, create another folder named 'templates'. Place the html files in the templates folder
+
+The application can be started by running flaskapp.py
+
+There are 3 lines of code at the beginning of flaskapp.py that are download statements for nltk features. THESE LINES MUST BE UNCOMMENTED FOR THE FIRST TIME RUNNING FLASKAPP.PY.
+
+After the first run of flaskapp.py, you may comment the 3 download statements as they are unneeded for future use.
+
+After running flaskapp.py, the console should generate one or two links that host the chatbot on your localhost. If the console generates 2 links, both links redirect to the same place.
+
+The links lead to our website! Click around the links and follow the instructions on the website to ensure the best experience with our chatbot
