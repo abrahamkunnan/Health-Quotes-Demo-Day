@@ -4,6 +4,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from flask import Flask, render_template, request
@@ -238,7 +239,7 @@ def quotesgenerator():
                     emotion="sadness"
                 elif word=='frustrat':
                     emotion="frustrated"
-            else:
+                else:
                   emotion='general'
             quote=get_quote(emotion)
             return quote
